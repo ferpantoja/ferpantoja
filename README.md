@@ -1,6 +1,6 @@
  Hi there 🤗
  
- Me chamo Fernanda, sou estudante de programação Full Stack, estou aprendendo e criando alguns projetos em,
+ Me chamo Fernanda, sou estudante de programação Full Stack, estou estudando e criando alguns projetos em,
  
  - <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html"/>
  - <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="logo-css"/>
